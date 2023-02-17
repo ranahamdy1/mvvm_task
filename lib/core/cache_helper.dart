@@ -1,6 +1,6 @@
-import 'package:shared_preferences/shared_preferences.dart';
+//import 'package:shared_preferences/shared_preferences.dart';
 
-class CacheData {
+/*class CacheData {
   static late SharedPreferences sharedPreferences;
 
   static void cacheInitialization() async {
@@ -39,4 +39,4 @@ class CacheData {
   static void deleteData({required String key}) {
     sharedPreferences.remove(key);
   }
-}
+}*/
